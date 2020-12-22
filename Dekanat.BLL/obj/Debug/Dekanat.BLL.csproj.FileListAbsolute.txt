@@ -1,0 +1,108 @@
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.BLL.dll.config
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.BLL.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.BLL.pdb
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\AutoMapper.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.DAL.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\Ninject.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Common.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Helpers.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.DAL.pdb
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.DAL.dll.config
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\AutoMapper.pdb
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\AutoMapper.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\Ninject.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Common.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Helpers.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\obj\Debug\Dekanat.BLL.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\obj\Debug\Dekanat.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\obj\Debug\Dekanat.BLL.csproj.CopyComplete
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\obj\Debug\Dekanat.BLL.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.BLL\obj\Debug\Dekanat.BLL.pdb
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.BLL.dll.config
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.BLL.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.BLL.pdb
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\AutoMapper.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.DAL.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\Ninject.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Common.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Helpers.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.DAL.pdb
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.DAL.dll.config
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\AutoMapper.pdb
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\AutoMapper.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\Ninject.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Common.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Helpers.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\obj\Debug\Dekanat.BLL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\obj\Debug\Dekanat.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\obj\Debug\Dekanat.BLL.csproj.CopyComplete
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\obj\Debug\Dekanat.BLL.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.BLL\obj\Debug\Dekanat.BLL.pdb
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.BLL.dll.config
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.BLL.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.BLL.pdb
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\AutoMapper.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.DAL.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\Ninject.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Helpers.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.DAL.pdb
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\Dekanat.DAL.dll.config
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\AutoMapper.pdb
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\AutoMapper.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\Ninject.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Helpers.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\obj\Debug\Dekanat.BLL.csprojAssemblyReference.cache
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\obj\Debug\Dekanat.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\obj\Debug\Dekanat.BLL.csproj.CopyComplete
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\obj\Debug\Dekanat.BLL.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.BLL\obj\Debug\Dekanat.BLL.pdb

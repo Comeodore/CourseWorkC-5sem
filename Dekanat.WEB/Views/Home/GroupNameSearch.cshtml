@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Dekanat.WEB.Models.GroupViewModel>
+
+@{
+    ViewBag.Title = "GroupNameSearch";
+}
+
+
+<h3>Група(и) з відповідною назвою</h3>
+
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Назва групи")
+        </th>
+        <th>
+            @Html.DisplayName("Кількість студентів")
+        </th>
+        <th>
+            @Html.DisplayName("Курс")
+        </th>
+        <th>
+            @Html.DisplayName("Факультет: ")
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount_of_students)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Faculty)
+            </td>
+            <td>
+                @Html.ActionLink("Редагувати дані групи", "Edit", new { id = item.Id }) |
+                  @Html.ActionLink("Видалити", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<div>
+    @Html.ActionLink("До попередньої сторінки", "Index")
+</div>

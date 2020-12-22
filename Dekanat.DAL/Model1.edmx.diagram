@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="941214a7b0bc4d80a865e821589b4aa1" Name="Diagram1">
+        <EntityTypeShape EntityType="DekanatDataModel.C__MigrationHistory" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DekanatDataModel.Dormitories" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DekanatDataModel.Groups" Width="1.5" PointX="5.625" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DekanatDataModel.Students" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="DekanatDataModel.FK_dbo_Students_dbo_Dormitories_Dormitory_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="DekanatDataModel.FK_dbo_Students_dbo_Groups_Group_Id" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

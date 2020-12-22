@@ -1,0 +1,303 @@
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Dekanat.WEB.dll.config
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Dekanat.WEB.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Dekanat.WEB.pdb
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\csc.exe
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\csi.exe
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\AutoMapper.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Dekanat.BLL.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\EntityFramework.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Ninject.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Ninject.Web.Common.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Ninject.Web.Mvc.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Web.Helpers.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Web.Mvc.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Web.Razor.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\WebGrease.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Dekanat.DAL.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Dekanat.BLL.pdb
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Dekanat.BLL.dll.config
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\AutoMapper.pdb
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\AutoMapper.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\EntityFramework.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Ninject.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Ninject.Web.Common.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Ninject.Web.Mvc.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Web.Helpers.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Web.Mvc.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Web.Razor.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Dekanat.DAL.pdb
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\bin\Dekanat.DAL.dll.config
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\obj\Debug\Dekanat.WEB.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\obj\Debug\Dekanat.WEB.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\obj\Debug\Dekanat.WEB.csproj.CopyComplete
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\obj\Debug\Dekanat.WEB.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.WEB\obj\Debug\Dekanat.WEB.pdb
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Dekanat.WEB.dll.config
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Dekanat.WEB.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Dekanat.WEB.pdb
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\AutoMapper.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Dekanat.BLL.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\EntityFramework.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Ninject.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Ninject.Web.Common.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Ninject.Web.Mvc.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\WebGrease.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Dekanat.DAL.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Dekanat.BLL.pdb
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Dekanat.BLL.dll.config
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\AutoMapper.pdb
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\AutoMapper.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\EntityFramework.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Ninject.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Ninject.Web.Common.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Ninject.Web.Mvc.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Dekanat.DAL.pdb
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\bin\Dekanat.DAL.dll.config
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\obj\Debug\Dekanat.WEB.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\obj\Debug\Dekanat.WEB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\obj\Debug\Dekanat.WEB.csproj.CopyComplete
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\obj\Debug\Dekanat.WEB.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.WEB\obj\Debug\Dekanat.WEB.pdb
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Dekanat.WEB.dll.config
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Dekanat.WEB.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Dekanat.WEB.pdb
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\csc.exe
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\csc.exe.config
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\csc.rsp
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\csi.exe
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\csi.exe.config
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\csi.rsp
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.AppContext.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Console.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\vbc.exe
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\vbc.exe.config
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\vbc.rsp
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Antlr3.Runtime.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\AutoMapper.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Dekanat.BLL.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\EntityFramework.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Newtonsoft.Json.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Ninject.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Ninject.Web.Common.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Ninject.Web.Mvc.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Web.Helpers.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Web.Mvc.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Web.Optimization.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Web.Razor.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\WebGrease.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Dekanat.DAL.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Dekanat.BLL.pdb
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Dekanat.BLL.dll.config
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\AutoMapper.pdb
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\AutoMapper.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\EntityFramework.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Ninject.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Ninject.Web.Common.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Ninject.Web.Mvc.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Web.Helpers.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Web.Mvc.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Web.Optimization.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Web.Razor.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Newtonsoft.Json.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Dekanat.DAL.pdb
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\bin\Dekanat.DAL.dll.config
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\obj\Debug\Dekanat.WEB.csprojAssemblyReference.cache
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\obj\Debug\Dekanat.WEB.csproj.CoreCompileInputs.cache
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\obj\Debug\Dekanat.WEB.csproj.CopyComplete
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\obj\Debug\Dekanat.WEB.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.WEB\obj\Debug\Dekanat.WEB.pdb

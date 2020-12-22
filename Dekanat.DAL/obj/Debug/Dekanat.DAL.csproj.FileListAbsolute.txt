@@ -1,0 +1,36 @@
+C:\Users\User\source\repos\Dekanat\Dekanat.DAL\bin\Debug\Dekanat.DAL.dll.config
+C:\Users\User\source\repos\Dekanat\Dekanat.DAL\bin\Debug\Dekanat.DAL.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.DAL\bin\Debug\Dekanat.DAL.pdb
+C:\Users\User\source\repos\Dekanat\Dekanat.DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Dekanat\Dekanat.DAL\obj\Debug\Dekanat.DAL.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Dekanat\Dekanat.DAL\obj\Debug\Dekanat.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dekanat\Dekanat.DAL\obj\Debug\Dekanat.DAL.csproj.CopyComplete
+C:\Users\User\source\repos\Dekanat\Dekanat.DAL\obj\Debug\Dekanat.DAL.dll
+C:\Users\User\source\repos\Dekanat\Dekanat.DAL\obj\Debug\Dekanat.DAL.pdb
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.DAL\bin\Debug\Dekanat.DAL.dll.config
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.DAL\bin\Debug\Dekanat.DAL.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.DAL\bin\Debug\Dekanat.DAL.pdb
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.DAL\obj\Debug\Dekanat.DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.DAL\obj\Debug\Dekanat.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.DAL\obj\Debug\Dekanat.DAL.csproj.CopyComplete
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.DAL\obj\Debug\Dekanat.DAL.dll
+C:\Users\User\Desktop\Новая папка\Dekanat\Dekanat.DAL\obj\Debug\Dekanat.DAL.pdb
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.DAL\bin\Debug\Dekanat.DAL.dll.config
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.DAL\bin\Debug\Dekanat.DAL.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.DAL\bin\Debug\Dekanat.DAL.pdb
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.DAL\obj\Debug\Dekanat.DAL.csprojAssemblyReference.cache
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.DAL\obj\Debug\Dekanat.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.DAL\obj\Debug\Dekanat.DAL.csproj.CopyComplete
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.DAL\obj\Debug\Dekanat.DAL.dll
+C:\Users\Vladmier\Desktop\Dekanat\Dekanat.DAL\obj\Debug\Dekanat.DAL.pdb

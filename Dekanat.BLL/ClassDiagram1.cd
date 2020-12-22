@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="Dekanat.BLL.Interfaces.IDormitoryService">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAEAACQAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Interfaces\IDormitoryService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dekanat.BLL.Interfaces.IGroupService">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQBAAAAAAgAAQAAACAAAEAABA=</HashCode>
+      <FileName>Interfaces\IGroupService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dekanat.BLL.Interfaces.IStudentService">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAEAAAABAAAAAAAAAgIAQIAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IStudentService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

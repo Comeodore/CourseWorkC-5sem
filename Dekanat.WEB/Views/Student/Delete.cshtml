@@ -1,0 +1,58 @@
+﻿@model Dekanat.WEB.Models.StudentViewModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Видалення групи</h2>
+
+<h3>Ви впевнені, що хочете видалити цю групу і всіх студентів, що до неї належать? ?</h3>
+<div>
+    <h4>Група:</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Ім'я студента: ")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Рейтинг: ")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rating)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Назва групи: ")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GroupName)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Номер гуртожитку: ")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DormitoryNumber)
+        </dd>
+
+      
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Видалити" class="btn btn-default" /> |
+            @Html.ActionLink("Назад до списку студентів", "Index")
+        </div>
+    }
+</div>

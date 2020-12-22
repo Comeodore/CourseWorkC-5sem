@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@model IEnumerable<Dekanat.WEB.Models.StudentViewModel>
+
+
+<h3>Пошук гуртожитка за номером</h3>
+@using (Ajax.BeginForm("DormitoryNumberSearch", new AjaxOptions { UpdateTargetId = "results" }))
+{
+    <div class="form-horizontal">
+        <div class="form-group">
+            <div class="col-md-10">
+                <input type="text" name="num" class="form-control" />
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Пошук" class="btn btn-info" />
+            </div>
+        </div>
+    </div>
+}
+<div id="results"></div>
